@@ -1,16 +1,16 @@
 #include <stdio.h>
 
 /**
- * main - prints all single digit numbers of base 10
+ * main - prints all single digit numbers of base 10 using putchar
  * Return: 0
  */
-int main (void)
+int main(void)
 {
 	int n;
 
 	for (num = 0; num <= 10; num++)
-		putchar("%d", num);
+		putchar((num % 10, num);
 
-	putchar("\n")
+	putchar('\n')
 	return (0);
 }
