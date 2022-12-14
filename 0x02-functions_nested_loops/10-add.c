@@ -1,9 +1,9 @@
-#include <stdio.h>
+#include "main.h"
 /**
- * main - adds two integers and returns the result
+ * add - adds two integers and returns the result
  * Return : 0 or 1
  */
-int add(int, int)
+int add(int a, int b)
 {
 	int a, b
 		return (a + b);
