@@ -1,7 +1,7 @@
 #ifndef main_h
 #define main_h
 /**
- * main - Header file containing declarationds for all functions
+ * main - Header file containing declarations for all functions
  */
 int _putchar(char);
 void print_alphabet(void);
