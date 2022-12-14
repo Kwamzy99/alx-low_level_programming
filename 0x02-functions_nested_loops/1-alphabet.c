@@ -1,5 +1,4 @@
-#include <stdio.h>
-#include <main.c>
+#include "main"
 /**
  * main - prints alphabet
  * Return: 0
