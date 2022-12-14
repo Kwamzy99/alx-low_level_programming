@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "main.h"
+touch main.c
 /**
  * main - prints alphabet
  * Return: 0
