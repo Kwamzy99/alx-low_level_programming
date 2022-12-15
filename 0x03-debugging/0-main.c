@@ -3,7 +3,7 @@
  * main -  tests function that prints if integer is +/-
  * Return: 0
  */
-int main (void)
+int main(void)
 {
 	int i;
 
