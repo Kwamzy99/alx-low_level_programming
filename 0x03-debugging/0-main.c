@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * main -  tests function that prints if integer is +/-
+ * main - tests function that prints if integer is +/-
  * Return: 0
  */
 int main(void)
