@@ -2,7 +2,7 @@
 /**
  * more_numbers - prints 10 times the numbers
  * _putchar only 3 times
- * Return: 
+ * Return:
  */
 void more_numbers(void)
 {
