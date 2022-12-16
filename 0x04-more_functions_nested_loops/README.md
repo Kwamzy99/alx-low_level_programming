@@ -1,0 +1,2 @@
+#!/bin/bash
+a function that checks for uppercase character
