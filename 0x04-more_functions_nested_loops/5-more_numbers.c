@@ -2,7 +2,7 @@
 /**
  * more_numbers - prints 10 times the numbers
  * _putchar only 3 times
- * Return: 0-14 x10
+ * Return: 
  */
 void more_numbers(void)
 {
@@ -13,11 +13,8 @@ void more_numbers(void)
 		for (b = 0; b <= 14; b++)
 		{
 			if (b >= 10)
-			{
-				_putchar((i / 10) + '0');
-			}
-			_putchar((i % 10) + '0');
+			_putchar('1');
+			_putchar(j % 10 + '0');
 		}
-		_putchar('\n');
-	}
+			_putchar('\n');
 }
