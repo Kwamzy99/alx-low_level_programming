@@ -4,7 +4,7 @@
  * @str: string
  * Return: character of string
  */
- void puts2(char *str)
+void puts2(char *str)
 {
 	int string;
 
