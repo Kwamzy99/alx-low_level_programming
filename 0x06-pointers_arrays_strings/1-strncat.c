@@ -2,8 +2,8 @@
 /**
  * _strncat - concatenates two strings
  * @dest: destination of string
- * @src: string to be copies
- * @n: length
+ * @src: string to be copied
+ * @n: integer
  * Return: two strings
  */
 char *_strncat(char *dest, char *src, int n)
