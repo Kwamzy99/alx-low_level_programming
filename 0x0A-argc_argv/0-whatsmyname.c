@@ -7,7 +7,7 @@
  * @argv: array
  * Return: Name
  */
-int main (int argc, char *argv[])
+int main(int argc, char *argv[])
 {
 	while (argc--)
 	{
